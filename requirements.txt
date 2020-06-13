@@ -1,0 +1,12 @@
+- SPA
+- Webpack (modularity, import/export)
+--- Babel
+--- SCSS
+--- Eslint
+--- 2 modes
+----- Dev: Dev Server, SourceMaps, Eslint, Not Minified JS & CSS
+----- Prod: Minified JS & CSS
+
+, Prod)
+- Git
+
